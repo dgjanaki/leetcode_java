@@ -1,4 +1,4 @@
-package leetcodes;
+// package leetcodes;
 
 import java.util.Scanner;
 public class two_sum{
