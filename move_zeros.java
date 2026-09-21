@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class move_zeros {
     public static void main(String[] args) {
-        int arr[] = {0,1,0,3,12};
+        int arr[] = {0,1,0,3,12}; //output= {1,3,12,0,0}
         int[] res=move(arr);
         System.out.println(Arrays.toString(res));
 

@@ -11,6 +11,8 @@ public class concatenation {
             merged[arr1.length+i] =arr1[i];
         }
         System.out.println(Arrays.toString(merged));
+
+        
     }
     
 }

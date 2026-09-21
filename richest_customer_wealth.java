@@ -1,8 +1,8 @@
 public class richest_customer_wealth {
     public static void main(String[] args) {
         int[][] arr = {
-            {1,5},
-            {7,3},{3,5} 
+            {1,5}, //6
+            {7,3},{3,5} //10,8
         };
         System.out.println(add(arr));
     }

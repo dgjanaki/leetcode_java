@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class highest_altitude {
     public static void main(String[] args) {
-        int[] arr ={-4,-3,-2,-1,4,3,2};
+        int[] arr ={-5,1,5,0,-7};
         
         System.out.println(Arrays.toString(arr));
         System.out.println(highaltitude(arr));
